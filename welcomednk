@@ -1,0 +1,15 @@
+def welcome_message():
+    message = """
+    ************************************
+    🚀 Welcome to DNK Traders! 🚀
+    ************************************
+    
+    Your trusted platform for trading success. 
+    Stay ahead with market insights, strategies, and expert guidance.
+    
+    Let's trade smart & grow together! 📈💰
+    ************************************
+    """
+    return message
+if __name__ == "__main__":
+    print(welcome_message()
